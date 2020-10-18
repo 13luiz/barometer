@@ -1,0 +1,26 @@
+{
+  "name": "barometer",
+  "version": "0.0.1",
+  "homepage": "https://barometer.app/",
+  "description": "A Electron application",
+  "license": "Apache 2.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^10.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:13luiz/barometer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/13luiz/barometer/issues"
+  },
+  "author": {
+    "name": "Luiz",
+    "email": "luiz.onlyone@gmail.com",
+    "url": "https://github.com/13luiz"
+  }
+}
